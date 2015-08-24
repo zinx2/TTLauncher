@@ -1,7 +1,0 @@
-E:\VisualStudio_Project\TTStudio\TTStudio.Infrastructure\bin\Debug\TTStudio.Infrastructure.dll
-E:\VisualStudio_Project\TTStudio\TTStudio.Infrastructure\bin\Debug\TTStudio.Infrastructure.pdb
-E:\VisualStudio_Project\TTStudio\TTStudio.Infrastructure\obj\Debug\TTStudio.Infrastructure.csprojResolveAssemblyReference.cache
-E:\VisualStudio_Project\TTStudio\TTStudio.Infrastructure\obj\Debug\TTStudio.Infrastructure.dll
-E:\VisualStudio_Project\TTStudio\TTStudio.Infrastructure\obj\Debug\TTStudio.Infrastructure.pdb
-E:\VisualStudio_Project\TTStudio\TTStudio.Infrastructure\obj\Debug\TTStudio.Infrastructure.Properties.Resources.resources
-E:\VisualStudio_Project\TTStudio\TTStudio.Infrastructure\obj\Debug\TTStudio.Infrastructure.csproj.GenerateResource.Cache
